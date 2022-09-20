@@ -1,0 +1,20 @@
+{
+  "name": "color-clock",
+  "version": "0.1.0",
+  "description": "Color Changing Application To Change The DOM Color At Intervals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'",
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Moringa-School-Assignments/react-hooks-npm-lab"
+  },
+  "author": "Antony Gakuru",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "serve": "^14.0.1"
+  }
+}
